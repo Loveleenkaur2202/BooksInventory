@@ -1,4 +1,4 @@
-# BooksInventory
+# Books Inventory
 Inventory for books with characters:
 - ISBN – a unique ID
 - Title
